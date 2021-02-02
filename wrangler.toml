@@ -1,0 +1,6 @@
+name = "jobsindevrel"
+type = "webpack"
+account_id = "dc56444c4c955a1653106ccf997c1067"
+workers_dev = false
+route = "*jobsindevrel.com/*"
+zone_id = "b4dc90e8b4007b7ddffbfa7dfe13c97d"
