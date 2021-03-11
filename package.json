@@ -11,6 +11,12 @@
   "author": "Kristian Freeman <kristian@kristianfreeman.com>",
   "license": "MIT",
   "devDependencies": {
-    "prettier": "^1.18.2"
+    "prettier": "^1.18.2",
+    "webpack": "^4.46.0"
+  },
+  "dependencies": {
+    "@honeybadger-io/js": "^3.1.0",
+    "honeybadger": "^1.4.0",
+    "lilredirector": "^1.0.1"
   }
 }
